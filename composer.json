@@ -1,0 +1,19 @@
+{
+    "name": "turingadmin/think-admin",
+    "description": "管理后台",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Turingadmin\\ThinkAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xiao Bin",
+            "email": "850009244@qq.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
